@@ -1,4 +1,4 @@
-## 💻 Exercises - Day 1
+## __ Exercises - Day 1
 
 1. Check the python version you are using
 2. Open the python interactive shell (IDLE) and do the following operations. The operands are 5 , 3 and 8. Check the example above
